@@ -12,7 +12,7 @@ Passionate about breaking things ethically and building things intelligently. My
 ## 📈 GitHub Activity
 Showcase your contributions with this dynamic snake animation:
 
-![Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/AtharvaK-XD/AtharvaK-XD/output/github-snake.svg)
 
 ## 📁 Featured Projects
 - **RootLock:** A password analyzer that evaluates strength and crack time.
